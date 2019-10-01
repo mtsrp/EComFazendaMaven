@@ -20,7 +20,7 @@ public class ClassePrincipal {
     public static void main(String[] args) {
         // TODO code application logic here
         ClienteDAO cliDao = new ClienteDAO();
-        ClienteEntidade cli = new ClienteEntidade(1, "Charisse");
+        ClienteEntidade cli = new ClienteEntidade("Stefani");
         
         cliDao.insert(cli);
         

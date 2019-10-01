@@ -41,8 +41,7 @@ public class ClienteEntidade {
     public ClienteEntidade() {
     }
 
-    public ClienteEntidade(int idCliente, String nome) {
-        this.idCliente = idCliente;
+    public ClienteEntidade(String nome) {
         this.nome = nome;
     }
     

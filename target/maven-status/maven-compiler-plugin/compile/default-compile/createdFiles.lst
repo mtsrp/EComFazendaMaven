@@ -1,0 +1,7 @@
+com\servlets\Servlet.class
+com\classes\ClassePrincipal.class
+com\dao\ProdutoDAO.class
+com\entidade\ClienteEntidade.class
+com\util\HibernateUtil.class
+com\entidade\ProdutoEntidade.class
+com\dao\ClienteDAO.class
